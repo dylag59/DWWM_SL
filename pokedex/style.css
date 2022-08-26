@@ -1,0 +1,25 @@
+body,
+.btn {
+  color: #f4f4f4;
+  background-color: #911b1b;
+}
+
+.loading {
+  margin-top: 22%;
+}
+
+.card {
+  width: 18rem;
+}
+.card .card-body {
+  text-align: center;
+}
+.card .card-body .card-image {
+  height: 11rem;
+}
+.card .card-body .card-text {
+  color: #ffffff;
+}
+.card .card-body .card-title {
+  color: #888888;
+}

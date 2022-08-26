@@ -1,0 +1,23 @@
+body{
+    background-color: burlywood;
+}
+
+.container{
+    background-color:white;
+    color: burlywood;
+    font-size: 25px;
+    text-align: center;
+    padding: 30px;
+    margin-top: 50px;
+    margin-left: 700px;
+    margin-right: 700px;
+}
+
+
+img{
+    height: 300px;
+    display: block;
+    margin: 0px auto;
+    margin-top: 30px;
+    margin-bottom: 200x;
+}
